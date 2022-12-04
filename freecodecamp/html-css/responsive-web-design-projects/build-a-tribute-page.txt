@@ -1,0 +1,50 @@
+** start of undefined **
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main id="main">
+    <h1 id="title">Dr. Norman Borlaug</h1>
+    <figure id="img-div">
+      <image id="image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg">
+      <div id="img-caption">Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.</div>
+    </figure>
+    <section id="tribute-info">See
+      <a id=tribute-link target="_blank" href="https://en.wikipedia.org/wiki/Norman_Borlaug">Link</a>
+    </section>
+  </main>
+</body>
+
+** end of undefined **
+
+** start of undefined **
+
+#main {
+  background-color: #eee;
+}
+#title {
+  text-align: center;
+}
+#img-div {
+
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  justify-content: center;
+}
+#img-caption {
+  padding: 10px;
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+}
+#tribute-link {
+  text-align: center;
+}
+
+** end of undefined **
+
